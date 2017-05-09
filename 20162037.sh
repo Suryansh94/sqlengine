@@ -1,0 +1,1 @@
+python mysql.py  "select A,B from table1"
